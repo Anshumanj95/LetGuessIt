@@ -1,0 +1,4 @@
+In this game when you open the game it will automatic generated a number betwwen 1 to 100.
+You have to guess the number in 5 Turns
+if you guess it within 5 turns you win this else you lose it.
+A restart button is also given to restart the game at any point of time
